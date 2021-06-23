@@ -1,2 +1,2 @@
 # hmm-viruses
-HMM data for predicating novel viruses
+HMM data for predicting novel viruses
